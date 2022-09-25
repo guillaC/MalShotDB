@@ -8,7 +8,7 @@ using System.Text;
 
 namespace ScreenshooterVXBuilder.Utils
 {
-    internal class ScreenShot
+    public class ScreenShot
     {
         const int TIMEOUT = 10;
 

@@ -8,14 +8,11 @@ namespace ScreenshooterVXBuilder.Models
 {
     public class StaticAnalysis
     {
-        public StaticAnalysis(string? peScan, string? binText, string? signature)
+        public string? Manalyze { get; set; }
+
+        public StaticAnalysis(string? Manalyze)
         {
-            PeScan = peScan;
-            BinText = binText;
-            Signature = signature;
+            this.Manalyze = Manalyze;
         }
-        public string? PeScan { get; set; }
-        public string? BinText { get; set; }
-        public string? Signature { get; set; }
     }
 }

@@ -15,8 +15,8 @@ namespace ScreenshooterVXBuilder.Models
             VersionNumber = versionNumber;
             Description = description;
             Size = size;
-            Md5 = md5;
-            Sha1 = sha1;
+            Md5 = md5.Replace("-","");
+            Sha1 = sha1.Replace("-", "");
             Language = language;
         }
 
