@@ -1580,7 +1580,7 @@ The following exploit mitigation techniques have been detected
 
 ## Screenshots
 ### In Shadow Batch Gen - Agreement
-![UI](./Screenshots/In Shadow Batch Gen - Agreement_In Shadow Batch Gen - Agreement_ef6a264d17a6438aad1fd5af2f659ac8.png) 
+![UI](./Screenshots/In%20Shadow%20Batch%20Gen%20-%20Agreement_In%20Shadow%20Batch%20Gen%20-%20Agreement_ef6a264d17a6438aad1fd5af2f659ac8.png) 
 # Vbswg 2 - Vbswg.exe
 ## Informations
 | Label | Value |
@@ -1958,7 +1958,7 @@ The following exploit mitigation techniques have been detected
 
 ## Screenshots
 ### Vbswg 2 Beta - By [K]
-![UI](./Screenshots/Vbswg 2 Beta_Vbswg 2 Beta - By [K]_f8a2d22266a24e4696785e3683352aa1.png) 
+![UI](./Screenshots/Vbswg%202%20Beta_Vbswg%202%20Beta%20-%20By%20[K]_f8a2d22266a24e4696785e3683352aa1.png) 
 # TeraBIT Virus Maker - Client.exe
 ## Informations
 | Label | Value |
@@ -2459,7 +2459,7 @@ The following exploit mitigation techniques have been detected
 
 ## Screenshots
 ### Coded in VB 6.0 By m_reza00
-![UI](./Screenshots/TeraBIT VM 2.8_Coded in VB 6.0 By m_reza00_344155be96ed4c7eaab8855ee39c171c.png) 
+![UI](./Screenshots/TeraBIT%20VM%202.8_Coded%20in%20VB%206.0%20By%20m_reza00_344155be96ed4c7eaab8855ee39c171c.png) 
 #  - Virus-O-Matic.exe
 ## Informations
 | Label | Value |
@@ -2755,4 +2755,4 @@ The following exploit mitigation techniques have been detected
 
 ## Screenshots
 ### Virus maker 2000
-![UI](./Screenshots/Virus maker 2000_Virus maker 2000_21fd124b18ad4723b94ee23a2faf6d9b.png) 
+![UI](./Screenshots/Virus%20maker%202000_Virus%20maker%202000_21fd124b18ad4723b94ee23a2faf6d9b.png) 
