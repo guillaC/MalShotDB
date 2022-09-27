@@ -16,7 +16,9 @@
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Multi Password Stealer_1.6/Multi Password Stealer_1.6.exe
@@ -1302,8 +1304,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Erreur de script
 ![UI](./Screenshots/M.M.H v1.6_Erreur de script_02a8ba8356c541d692344ec1dced8646.png) 
 ### M.M.H v1.6
@@ -1325,7 +1330,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/[corclub]Tools/WMI/WMICodeCreator/WMICodeCreator.exe
@@ -1525,8 +1532,11 @@ The following exploit mitigation techniques have been detected
     Signing time: 2005-Aug-02 22:54:05 +0100
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### WMI Code Creator
 ![UI](./Screenshots/WMI Code Creator_WMI Code Creator_33f73d3ba64943c08ec70aa338ac7a05.png) 
 # Confuser - Confuser.exe
@@ -1546,7 +1556,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/[corclub]Other/Insomnia/bin/Release/Confuser/Confuser.exe
@@ -1837,8 +1849,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Confuser v1.8.0.0 - Untitled.crproj 
 ![UI](./Screenshots/Confuser v1.8.0.0 - Untitled.crproj _Confuser v1.8.0.0 - Untitled.crproj _11f35f1f554c4ae1bb2add9158ee1aed.png) 
 # Projekt1 - icon changer.exe
@@ -1858,7 +1873,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/PWstealer_v2.0/icon changer.exe
@@ -2126,8 +2143,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Icon changer 1.0 by coda
 ![UI](./Screenshots/Projekt1_Icon changer 1.0 by coda_d0e7725dfcab481489d40cdedbc1f9c1.png) 
 # PrivateSteamStealer - 1337 SteamACC Stealer Private.exe
@@ -2147,7 +2167,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/1337_SteamACC_Stealer_Private/1337 SteamACC Stealer Private.exe
@@ -2453,8 +2475,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### 1337 SteamACC Stealer Private - By Eddy-K
 ![UI](./Screenshots/PrivateSteamStealer_1337 SteamACC Stealer Private - By Eddy-K_7e0adcdf63b24518ad879a67577d2495.png) 
 # Builder - BKL V2.0.exe
@@ -2474,7 +2499,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/BKL V2.0.exe
@@ -2754,8 +2781,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### BKL Public Edition V2.0
 ![UI](./Screenshots/BKL Public Edition V2.0_BKL Public Edition V2.0_0902d858fe3f46df90b7bade21a255fb.png) 
 # Builder - builder.exe
@@ -2775,7 +2805,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/PWstealer_v2.0/builder.exe
@@ -3088,8 +3120,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### PWstealer v2.0 - Server builder by c0d4
 ![UI](./Screenshots/Builder_PWstealer v2.0 - Server builder by c0d4_39fe6dd0d57d488488264b15e998cf2c.png) 
 #  - LabStealer.exe
@@ -3109,7 +3144,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/LabStealer.exe
@@ -4252,8 +4289,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### LabStealer
 ![UI](./Screenshots/Labstealer_LabStealer_11eec1f0d2ca4a8399590d44ec6e58af.png) 
 #  - Loader.exe
@@ -4273,7 +4313,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Istealer Cracked/Loader.exe
@@ -4550,8 +4592,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Error
 ![UI](./Screenshots/Error_Error_8f74706317de4284a7659aeebb786c74.png) 
 #  - iStealer 5.0.1.exe
@@ -4571,7 +4616,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/istealer 5.0/iStealer 5.0.1.exe
@@ -4873,8 +4920,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### iS 5.0 MOD
 ![UI](./Screenshots/iStealer_iS 5.0 MOD_330394a3487643d4916b65015cff55c3.png) 
 #  - builder.exe
@@ -4894,7 +4944,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/STEALER.Azorult/AZORult stealer/builder.exe
@@ -5062,8 +5114,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Enter gate url....
 ![UI](./Screenshots/Enter gate url...._Enter gate url...._bc58d4f3968f4119b1fe79bcb20d0903.png) 
 #  - SimpleStealer.exe
@@ -5083,7 +5138,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/SimpleStealer.exe
@@ -6277,8 +6334,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### SimpleStealer V1.2
 ![UI](./Screenshots/Simple Stealer V1.2_SimpleStealer V1.2_8828c56a438848d3870f06a949428602.png) 
 # PassStealer V3.0 - PassStealer.3.0.exe
@@ -6298,7 +6358,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/PassStealer v3.0/PassStealer.3.0.exe
@@ -6629,8 +6691,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### frmLoad
 ![UI](./Screenshots/PWsS3_frmLoad_b7c79a14c29b4b2da25de4fa926d97e6.png) 
 # iStealer - iStealer 3.0.exe
@@ -6650,7 +6715,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/iStealer 3.0.exe
@@ -6894,8 +6961,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### iStealer 3.0
 ![UI](./Screenshots/iStealer_iStealer 3.0_1a211a14e14e4217a1ef5132a37cbb14.png) 
 # Dark Screen Stealer - Dark Screen Stealer.exe
@@ -6915,7 +6985,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Dark Screen Stealer V2/Dark Screen Stealer V2/Dark Screen Stealer.exe
@@ -7214,8 +7286,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Dark Screen Stealer - by Mana5olia
 ![UI](./Screenshots/Dark Screen Stealer - by Mana5olia_Dark Screen Stealer - by Mana5olia_ace979b05fd74f548dbaea1c97a92208.png) 
 # AuraStealer - AuraStealer.exe
@@ -7235,7 +7310,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/AuraStealer.exe
@@ -7541,8 +7618,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### AuraStealer 1.0b
 ![UI](./Screenshots/AuraStealer_AuraStealer 1.0b_cc13708fc5e5426d927d388883f9f41d.png) 
 # Black Stealer [ Legend Edition ] - Black Stealer [ Legend Edition].exe
@@ -7562,7 +7642,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/STEALER.BlackStealer/Black Stealer [ Legend Edition].exe
@@ -7788,8 +7870,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Black Stealer v2.1 [ Legend Edition ]
 ![UI](./Screenshots/Black Stealer v2.1 [ Legend Edition ]_Black Stealer v2.1 [ Legend Edition ]_15e7a456cf82403bbcf9511cffe7495f.png) 
 # Midnight Stealer - Midnight Stealer 1.5.exe
@@ -7809,7 +7894,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Midnight Stealer 1.5/Midnight Stealer 1.5.exe
@@ -8186,8 +8273,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Midnight Stealer
 ![UI](./Screenshots/Midnight Stealer_Midnight Stealer_c4f11e4a62d545468e54b157dc2d1741.png) 
 #  - Jps1.8.exe
@@ -8207,7 +8297,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Persan |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Jps1.8.exe
@@ -8869,8 +8961,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### JPS 1.8
 ![UI](./Screenshots/Jps1_JPS 1.8_316b1e0154ad4120ae9845f96680ea07.png) 
 # Microsoft Network - Stub.exe
@@ -8890,7 +8985,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Stub.exe
@@ -9153,8 +9250,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Form1
 ![UI](./Screenshots/Form1_Form1_2dfb4371f43f40f989aa31cd0d9cc033.png) 
 # Ref Stealer - Ref Stealer v1.0.exe
@@ -9174,7 +9274,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Ref Stealer v1.0.exe
@@ -9452,8 +9554,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Ref Stealer v1.0
 ![UI](./Screenshots/Ref Stealer v1.0_Ref Stealer v1.0_792d733eab114764b774181014b07ae3.png) 
 # Remote Penetration - RemotePenetration.exe
@@ -9473,7 +9578,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Remote Penetration v2.2/RemotePenetration.exe
@@ -9701,8 +9808,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Remote Penetration
 ![UI](./Screenshots/Remote Penetration_Remote Penetration_8fad64af5abc4d7ebe65f686eee4ede7.png) 
 #  - ProstoClipper_Cracked_[Release].exe
@@ -9722,7 +9832,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/ProstoClipper Stealer Builder/ProstoClipper_Cracked_[Release].exe
@@ -10316,8 +10428,11 @@ The following exploit mitigation techniques have been detected
     The file contains a WinRAR compressed archive file after the PE data.
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### WinRAR self-extracting archive
 ![UI](./Screenshots/WinRAR self-extracting archive_WinRAR self-extracting archive_fff5c4d64ee94a91b719535a4d98d645.png) 
 # Black Stealer [ Dark Edition ] - Black Stealer [ Dark Edition ].exe
@@ -10337,7 +10452,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Black Stealer/Black Stealer Builder.b/Black Stealer [ Dark Edition ].exe
@@ -10630,8 +10747,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Black Stealer v2.3 [ Dark Edition ]
 ![UI](./Screenshots/Black Stealer v2.3 [ Dark Edition ]_Black Stealer v2.3 [ Dark Edition ]_8d036c0c678c4dc88a8a4f7e67a8eb8b.png) 
 # iM&9L6q~r(7G3T^e*w - Lokibot.exe
@@ -10651,7 +10771,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Stealer/Lokibot.exe
@@ -10849,8 +10971,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Lokibot.exe - Erreur d'initialisation du .NET Framework
 ![UI](./Screenshots/Lokibot.exe - Erreur d'initialisation du .NET Framework_Lokibot.exe - Erreur d'initialisation du .NET Framework_337bf78b9bf040c8aa386e9fbb895fa6.png) 
 # Universal1337V2 - Universal1337 V2.exe
@@ -10870,7 +10995,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Universal1337 V2/Universal1337 V2.exe
@@ -11405,8 +11532,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Universal1337 V2 - The Account Stealer
 ![UI](./Screenshots/Universal1337V2_Universal1337 V2 - The Account Stealer_cb50600d56ca47b6b6380488b82c06d8.png) 
 # iStealer - iStealer 4.0.4.exe
@@ -11426,7 +11556,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Istealer Cracked/iStealer 4.0.4.exe
@@ -11678,8 +11810,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### iStealer
 ![UI](./Screenshots/iStealer_iStealer_2f237880cb6f4ddeab1c5d7a4e9c1119.png) 
 # iStealer - iStealer 6.3 Legends.exe
@@ -11699,7 +11834,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/iStealer_6.3_Legends/iStealer 6.3 Legends.exe
@@ -12121,8 +12258,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### iStealer
 ![UI](./Screenshots/iStealer_iStealer_f797440680d0437bbeda4d89a29c8f56.png) 
 # Lord Password Sender - LPS.exe
@@ -12142,7 +12282,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/LPS.exe
@@ -12501,8 +12643,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Editor
 ![UI](./Screenshots/Editor_Editor_da19d6b8a71e44cb8c9a2fbf30a59409.png) 
 ### LORD PS (WWW.LORDHACKERS.NET)
@@ -12524,7 +12669,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/FF Stealer_steamcafe/Stub.exe
@@ -12857,7 +13004,10 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Projekt1
 ![UI](./Screenshots/Projekt1_Projekt1_4d77df47cb0b491488503d694a8ea33a.png) 

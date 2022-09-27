@@ -16,7 +16,9 @@
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/MiniMo Public 0.7/addins/Complete Control.exe
@@ -296,8 +298,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Complete Control Add-in
 ![UI](./Screenshots/MODDE_Complete Control Add-in_f7d76b0adb86405e88620d0a98ed97d2.png) 
 #  - Client210.exe
@@ -317,7 +322,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Client210.exe
@@ -1279,8 +1286,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Theef v.2.10
 ![UI](./Screenshots/Theef v.2.10_Theef v.2.10_88d2ad2d4aae47c3af49f73a49ee2de9.png) 
 #  - Editserver210.exe
@@ -1300,7 +1310,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Editserver210.exe
@@ -1836,8 +1848,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Theef v.2.10 Editserver
 ![UI](./Screenshots/Editserver v.2.10_Theef v.2.10 Editserver_2f21382c2e544d6a96f7732bb26b808d.png) 
 #  - ARCTIC R.A.T.exe
@@ -1857,7 +1872,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Arctic R.A.T. 0.0.1 Alpha/ARCTIC R.A.T.exe
@@ -3185,8 +3202,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Arctic R.A.T. 0.0.1 Alpha
 ![UI](./Screenshots/Artic R.A.T. 0.1_Arctic R.A.T. 0.0.1 Alpha_d9519dd9b54c4281a8a320601d6647bc.png) 
 #  - CyberGate v1.03.0.exe
@@ -3206,7 +3226,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/CyberGate v1.03.0.exe
@@ -5459,8 +5481,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### CyberGate Disclaimer
 ![UI](./Screenshots/CyberGate_CyberGate Disclaimer_04fa01477b664e5f9769b4b99547b2c5.png) 
 # Lost door® - Lost Door V4.3.1.exe
@@ -5480,7 +5505,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Lost Door v4.3.1/Lost Door V4.3.1.exe
@@ -6002,8 +6029,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Lost Door
 ![UI](./Screenshots/Lost Door_Lost Door_882585c4a50e4a89a2d6e6cb9e2ad7a1.png) 
 #  - CyberGate v1.04.8.exe
@@ -6023,7 +6053,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/CyberGate v1.04.8/CyberGate v1.04.8.exe
@@ -7839,8 +7871,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### CyberGate Disclaimer
 ![UI](./Screenshots/CyberGate_CyberGate Disclaimer_6e71fa2f77f7487db3c21131c6b35a61.png) 
 #  - Connector.exe
@@ -7860,7 +7895,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Connector.exe
@@ -8688,8 +8725,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Y3k Connector
 ![UI](./Screenshots/Y3k Connector_Y3k Connector_c629f04552064f7f9c21ad9089169ca1.png) 
 #  - Client_10.exe
@@ -8709,7 +8749,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Client_10.exe
@@ -9494,8 +9536,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Client
 ![UI](./Screenshots/Y3k Rat 2k5_Client_5461f53134c242b3abb262efc7762ac5.png) 
 #  - EditSrv.exe
@@ -9515,7 +9560,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/EditSrv.exe
@@ -10125,8 +10172,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Y3k Rat 2k5 Edit Server
 ![UI](./Screenshots/Y3k 2k5 Edit Server_Y3k Rat 2k5 Edit Server_13fd5535d1364b82bcfe2a84d49acaf1.png) 
 #  - SrvIconChange.exe
@@ -10146,7 +10196,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/SrvIconChange.exe
@@ -10751,8 +10803,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Y3k Icon Changer
 ![UI](./Screenshots/Srviconchange_Y3k Icon Changer_fafd23e497244a63bb92f75020870f3f.png) 
 #  - Beast2.07.exe
@@ -10772,7 +10827,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Beast2.07.exe
@@ -12359,8 +12416,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Beast 2.07
 ![UI](./Screenshots/Beast2_Beast 2.07_9ea6696367144a3a9cf3fd2e6547f4a0.png) 
 # PaiN RAT - PaiNRAT.exe
@@ -12380,7 +12440,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Arabe (Égypte) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/painrat0.1Beta9/PaiN RAT 0.1 Beta 9/PaiNRAT.exe
@@ -13378,8 +13440,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### PaiN RAT 0.1
 ![UI](./Screenshots/PaiN RAT 0.1_PaiN RAT 0.1_330b258396c940dab56f3bb79a8c56a1.png) 
 #  - Deeper 1.0 Beta9.exe
@@ -13399,7 +13464,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Deeper 1.0 Beta9/Deeper 1.0 Beta9.exe
@@ -13896,8 +13963,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Deeper 1.0 Beta9
 ![UI](./Screenshots/Deeper_Deeper 1.0 Beta9_708942fd753345899fe4c6d4f95687bc.png) 
 #  - RemcosLoader.exe
@@ -13917,7 +13987,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/REMCOS v1.7 Professional/RemcosLoader.exe
@@ -14195,8 +14267,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### REMCOS Loader
 ![UI](./Screenshots/REMCOS Loader_REMCOS Loader_074e83e0a02e44959cd5afd832d020c7.png) 
 # Charon - Charon.exe
@@ -14216,7 +14291,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Charon.exe
@@ -14603,8 +14680,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Charon - 0 servers online [Listening]
 ![UI](./Screenshots/Charon_Charon - 0 servers online [Listening]_936e01f4c89b44828a13148b937413a1.png) 
 # Complete Control 2 Add-in for MiniMo - Complete Control 2.exe
@@ -14624,7 +14704,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/MiniMo Public 0.7/addins/Complete Control 2.exe
@@ -14909,8 +14991,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Complete Control 2 MiniMo Add-in
 ![UI](./Screenshots/MODDE_Complete Control 2 MiniMo Add-in_96ce16e93f3046aebba8bc5edd3c5955.png) 
 #  - SubSeven.exe
@@ -14930,7 +15015,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/SubSeven.exe
@@ -16101,8 +16188,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Connection View
 ![UI](./Screenshots/SubSeven 2.3 2010_Connection View_243aff24dd304afe9f5fa0aae82a9eb3.png) 
 # Project1 - Project1.exe
@@ -16122,7 +16212,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Client/Project1.exe
@@ -16395,8 +16487,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### NyTrojan RAT Source Code
 ![UI](./Screenshots/Project1_NyTrojan RAT Source Code_17d402be29514862b4a1bec64e301074.png) 
 #  - CyberGate v1.00.1.exe
@@ -16416,7 +16511,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/CyberGate v1.00.1/CyberGate v1.00.1.exe
@@ -17885,8 +17982,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### CyberGate v1.00.0 - Disclaimer
 ![UI](./Screenshots/CyberGate_CyberGate v1.00.0 - Disclaimer_bbf4443b7c7148e69bb68adff40d2425.png) 
 # Poison Ivy - Poison Ivy 2.3.2.exe
@@ -17906,7 +18006,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Poison Ivy 2.3.2.exe
@@ -39025,8 +39127,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Terms And Conditions EULA (9)
 ![UI](./Screenshots/Poison ivy 2_Terms And Conditions EULA (9)_2839d16060334f6a980956fe61d5a927.png) 
 # Omertá - Omerta.exe
@@ -39046,7 +39151,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Omerta.exe
@@ -39331,8 +39438,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Omertá
 ![UI](./Screenshots/Omerta_Omertá_d7832b5323974cb2b90ab78b74234df6.png) 
 #  - Deeper 1.0 Beta10 Fix1.exe
@@ -39352,7 +39462,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Deeper 1.0 Beta10 - Fix1/Deeper 1.0 Beta10 Fix1.exe
@@ -39877,8 +39989,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Deeper 1.0 Beta10
 ![UI](./Screenshots/Deeper_Deeper 1.0 Beta10_47a202d75c3f4e3d8667152b7cd86016.png) 
 #  - darkmoon.exe
@@ -39898,7 +40013,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/darkmoon.exe
@@ -41601,8 +41718,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### DARKMOON 4.11 Private Edition
 ![UI](./Screenshots/darkmoon_DARKMOON 4.11 Private Edition_d0014789f6f44d67a158013cc7880791.png) 
 # shia core crypter - ShiaCore.exe
@@ -41622,7 +41742,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/SHIA CORE 7/Shia Core Binder/ShiaCore.exe
@@ -41908,8 +42030,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Shia Core Binder
 ![UI](./Screenshots/Shia Core Binder_Shia Core Binder_29d275cb101c4af0a38b36781e0a8828.png) 
 #  - 888 RAT Private .exe
@@ -41929,7 +42054,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (Royaume-Uni) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/888 RAT Private - Cracked/888 RAT Private .exe
@@ -42929,8 +43056,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Password
 ![UI](./Screenshots/Password_Password_27a39152e5ae46588674900ce11c7a3a.png) 
 # RATC - RATC.exe
@@ -42950,7 +43080,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/A32s RAT/RATC.exe
@@ -43374,8 +43506,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### A32s RAT no. 5
 ![UI](./Screenshots/RATC_A32s RAT no. 5_ef026d92b73645a594349a5865ae181f.png) 
 # Client - AceRAT-Client.exe
@@ -43395,7 +43530,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Ace RAT v1.0/AceRAT-Client.exe
@@ -43777,8 +43914,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Ace RAT v1.0
 ![UI](./Screenshots/Client_Ace RAT v1.0_6fc65dc5af704bb497c056f5effb754e.png) 
 # WindowsApplication37 - remotedesktop.exe
@@ -43798,7 +43938,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/AKID-RAT v0.4/remotedesktop.exe
@@ -44043,8 +44185,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Pixel RAT
 ![UI](./Screenshots/Pixel RAT_Pixel RAT_ce908bd573c34d81a2146057f4853351.png) 
 #  - Client.exe
@@ -44064,7 +44209,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Apocalypse v1.4.4/Client.exe
@@ -45662,8 +45809,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Apocalypse Remote Administration Tool v1.4.4
 ![UI](./Screenshots/Apocalypse Remote Administration Tool v1.4.4_Apocalypse Remote Administration Tool v1.4.4_17811bd2d8d54025b83bacd5a98cb558.png) 
 # Bifrost RAT  1.2.3d - Bifrost RAT Of Evil.exe
@@ -45683,7 +45833,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Bifrost RAT Of Evil/Bifrost RAT Of Evil.exe
@@ -46006,8 +46158,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### PORT
 ![UI](./Screenshots/Bifrost RAT Of Evil  0.5.0Ev_PORT_bd2c2349ae374c1793da93b73f8de6b9.png) 
 ### Bifrost RAT Of Evil  0.5.0Ev
@@ -46029,7 +46184,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Blizzard-RAT Lite v1.3.1/Blizzard-RAT lite.exe
@@ -48314,8 +48471,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Form54
 ![UI](./Screenshots/Blizzard-rat lite_Form54_d11bfe73b95a40a89819513622bbb568.png) 
 # comet - comet v1.2.exe
@@ -48335,7 +48495,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Comet Rat v1.2/comet v1.2.exe
@@ -48633,8 +48795,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Port Settings
 ![UI](./Screenshots/User aTest - [Comet v 0.1.2.0 - Users Online [ 0 ]]_Port Settings_1a2483a960d744aeb50cbc65eb97078b.png) 
 ### User aTest - [Comet v 0.1.2.0 - Users Online [ 0 ]]
@@ -48656,7 +48821,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Comet Rat v1.2/Stub.exe
@@ -48858,8 +49025,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Microsoft .NET Framework
 ![UI](./Screenshots/Microsoft .NET Framework_Microsoft .NET Framework_4a1e1e3635ec468a95ef4f156a8873cb.png) 
 #  - Cstrike Rat.exe
@@ -48879,7 +49049,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/CS Rat/Cstrike Rat.exe
@@ -49358,8 +49530,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Disclaimer
 ![UI](./Screenshots/Cs Rat_Disclaimer_87eb89f8a1d14f738b56acbc2e5e7d52.png) 
 ### Cs Rat
@@ -49381,7 +49556,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Devils Rat 8.0 Final/Devils-Rat 8.0.exe
@@ -49677,8 +49854,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Listen Port
 ![UI](./Screenshots/Listen Port_Listen Port_cf2c655550f24f5ea3c314a3426c3a14.png) 
 # Client - Client-v1.2.exe
@@ -49698,7 +49878,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/elfRAT v1.2/Client-v1.2.exe
@@ -49909,8 +50091,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### -Log-
 ![UI](./Screenshots/Client_-Log-_1ac20a8fcdee49588cc25ad9b3a783d8.png) 
 ### -elfClient-v1.2-
@@ -49932,7 +50117,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/elfRAT v1.2/EditServer-v1.2.exe
@@ -50143,8 +50330,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### -elfEditServer-v1.2-
 ![UI](./Screenshots/EditServer_-elfEditServer-v1.2-_282d073dbd814752b950be598d7877dd.png) 
 # EngRat v0.1.0B - EngRat v0.1.0B.exe
@@ -50164,7 +50354,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/EngRat v0.1.0B/EngRat v0.1.0B.exe
@@ -50614,8 +50806,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### PORT
 ![UI](./Screenshots/PORT_PORT_fee3b367681c4737a71c8aac50bc1f3f.png) 
 # Alaa Bawaneh - Client.exe
@@ -50635,7 +50830,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Epsilon RAT v1.1/Client.exe
@@ -50885,8 +51082,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Epsilon RAT v1.1
 ![UI](./Screenshots/Epsilon RAT v1.1_Epsilon RAT v1.1_05ace97a41714eeeb2b04a07528bfce5.png) 
 # Exymna RAT - Exymna RAT.exe
@@ -50906,7 +51106,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Exymna RAT v1.0/Exymna RAT.exe
@@ -51203,8 +51405,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Exymna RAT v1.0 - Codename NSA
 ![UI](./Screenshots/Exymna RAT v1.0 - Codename NSA_Exymna RAT v1.0 - Codename NSA_17edd30a23194f3c8dae4a42a2d25113.png) 
 # FD Rat - FD RAT.exe
@@ -51224,7 +51429,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/FD Rat/FD RAT.exe
@@ -51504,8 +51711,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Open Port
 ![UI](./Screenshots/Open Port_Open Port_69cb6fdba71a4b1e950ca15701c8e458.png) 
 #  - Clie111111111111111111nt.exe
@@ -51525,7 +51735,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/FeRAT v1.00/Clie111111111111111111nt.exe
@@ -52386,8 +52598,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### FeRAT v1.00
 ![UI](./Screenshots/FeRAT v1.00_FeRAT v1.00_b18a5d17ed574c239cd4ef026c1508a4.png) 
 #  - ServerBuilder.exe
@@ -52407,7 +52622,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/FeRAT v1.00/ServerBuilder.exe
@@ -52958,8 +53175,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### FeRAT Server Builder v1.00
 ![UI](./Screenshots/ServerEditor_FeRAT Server Builder v1.00_7214f4b3299842f29745043eb0d98d59.png) 
 #  - [hac] rat pub vers.1.exe
@@ -52979,7 +53199,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/H-A-C RAT Public/[hac] rat pub vers.1.exe
@@ -53939,8 +54161,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Enter Password
 ![UI](./Screenshots/Enter Password_Enter Password_46b09ce4c46948188a04404ff234f440.png) 
 # njRAT - Hallaj PRO Rat [Fixed].exe
@@ -53960,7 +54185,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Hallaj PRO Rat [Fixed]/Hallaj PRO Rat [Fixed].exe
@@ -54187,8 +54414,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### njRAT
 ![UI](./Screenshots/Hallaj PRO Rat [Fixed]_njRAT_5030555137c74923880d3e6e01c51fbe.png) 
 ### Hallaj PRO Rat [Fixed]
@@ -54210,7 +54440,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Harmmy Rat v1.7/Harmmy Rat v1.7.exe
@@ -55327,8 +55559,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Harmmy Rat V1.7 
 ![UI](./Screenshots/Harmmy Rat v1.7_Harmmy Rat V1.7 _8dc3577ca6b346249b3d313ee246ad09.png) 
 # Hav-RAT - HavRat.exe
@@ -55348,7 +55583,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Suédois (Suède) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Hav-RAT 1.4.0/HavRat.exe
@@ -58656,8 +58893,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### PLEASE WAIT...
 ![UI](./Screenshots/Hav-RAT 1.4.0_PLEASE WAIT..._a20e5db18d994d2fb528303be421c907.png) 
 # Virus Rat v8.0 Beta - HiB RAT v2.0.exe
@@ -58677,7 +58917,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/HiB RAT v2.0/HiB RAT v2.0.exe
@@ -58959,8 +59201,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### New Port
 ![UI](./Screenshots/New Port_New Port_4402c5602446407a883efc0941bc3529.png) 
 #  - ImSecureRat.exe
@@ -58980,7 +59225,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Imsecure rat v 1.0/ImSecureRat.exe
@@ -61597,8 +61844,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Formsplash
 ![UI](./Screenshots/Imsecurerat_Formsplash_df9527fbadff4eb5952f551700fc1697.png) 
 # H.n&H.B.H - Iraq RAT V.1.exe
@@ -61618,7 +61868,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Iraq RAT V.1/Iraq RAT V.1.exe
@@ -61924,8 +62176,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Iraq RAT V.1
 ![UI](./Screenshots/Iraq RAT V.1_Iraq RAT V.1_902e2bb8266b4561b3cca848f5301792.png) 
 # Alaa Bawaneh - itRAT.exe
@@ -61945,7 +62200,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/itRAT v1.0/itRAT.exe
@@ -62212,8 +62469,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### itRAT v1.0
 ![UI](./Screenshots/itRAT v1.0_itRAT v1.0_5006d1bd47644440b8297dcf985e49f3.png) 
 # Alaa Bawaneh - KYMS-RAT v 2.8.exe
@@ -62233,7 +62493,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/kyms-rat/KYMS-RAT v 2.8.exe
@@ -62521,8 +62783,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### KYMS RAT
 ![UI](./Screenshots/KYMS RAT_KYMS RAT_2a1e458341494798bf0d86d2ae9d81f8.png) 
 # LaLa-Rat - LaLa-Rat.exe
@@ -62542,7 +62807,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Chinois (simplifié, République populaire de Chine) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/LaLa-Rat v1.3/LaLa-Rat.exe
@@ -63044,8 +63311,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### LaLa-Rat V 1.3 Professional   By  La VozR  - HackErZ
 ![UI](./Screenshots/LaLa-Rat V 1.3 Professional   By  La VozR  - HackErZ_LaLa-Rat V 1.3 Professional   By  La VozR  - HackErZ_502d656c3141456b8090343900233c51.png) 
 # Crypt - LaMe RAT v1.0.exe
@@ -63065,7 +63335,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/LaMe RAT 1.0/LaMe RAT v1.0.exe
@@ -63326,8 +63598,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### LaMe RAT v1.0
 ![UI](./Screenshots/LaMe RAT v1.0_LaMe RAT v1.0_c93685a6b94e4c2fa063acde4e465514.png) 
 #  - Master Rat 1.0.exe
@@ -63347,7 +63622,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Master Rat 1.0/Master Rat 1.0.exe
@@ -64715,8 +64992,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Master Rat 1.0
 ![UI](./Screenshots/Master Rat 1.0_Master Rat 1.0_7ebaf220e62d474eb3ab676a1308aeab.png) 
 # MiCROSOFT_R.A.T 1.0 - MiCROSOFT_R.A.T_1.0.exe
@@ -64736,7 +65016,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/MiCROSOFT RAT 1.0/MiCROSOFT_R.A.T_1.0.exe
@@ -65094,8 +65376,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### New Port
 ![UI](./Screenshots/New Port_New Port_46edc80e46df402a9716164f404770e7.png) 
 # NetWire Workstation - NetWire v1.4c.exe
@@ -65115,7 +65400,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/NetWire-Trial/NetWire v1.4c.exe
@@ -65829,8 +66116,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Disclaimer
 ![UI](./Screenshots/NetWire Workstation Trial - World Wired Labs_Disclaimer_227ef9b3f5104f0d931b9d2471d50c4d.png) 
 #  - njworm.exe
@@ -65850,7 +66140,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Français (France) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/njworm/njworm.exe
@@ -66925,8 +67217,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### nj-worm (c) controle center - underworld finale
 ![UI](./Screenshots/nj-worm control center_nj-worm (c) controle center - underworld finale_43bafdc533b44125b9b468a4b2f2fd26.png) 
 #  - NovaLite.exe
@@ -66946,7 +67241,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/NovaLite v3.0/NovaLite.exe
@@ -67729,8 +68026,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### NovaLite v3.0
 ![UI](./Screenshots/Nova Lite RAT v1.0_NovaLite v3.0_a1fe0e85c2bf48c695c068a6bc711308.png) 
 #  - OrionRAT.exe
@@ -67750,7 +68050,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Orion Free NEWEST/OrionRAT.exe
@@ -68661,8 +68963,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ###   Orion RAT 0.9 FREE VERSION   [Online Servers: 0]
 ![UI](./Screenshots/Orion RAT_  Orion RAT 0.9 FREE VERSION   [Online Servers: 0]_383215cc6f5d43719f56499f66c88acc.png) 
 # PaiN RAT - Pain RAT.exe
@@ -68682,7 +68987,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Arabe (Égypte) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/PaiN RAT 0.1 RC1/Pain RAT.exe
@@ -70018,8 +70325,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### PaiN RAT 0.1 RC1
 ![UI](./Screenshots/Project RAT 0.1_PaiN RAT 0.1 RC1_dcdd5d6acd6445fd8157a8fdc65dc665.png) 
 #  - Pandora RAT V1.1 [Public Silent Edition].exe
@@ -70039,7 +70349,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Pandora RAT V1.1/Pandora RAT V1.1 [Public Silent Edition].exe
@@ -71224,8 +71536,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Pandora Rat - Terms and Conditions EULA (2013)
 ![UI](./Screenshots/Pandora rat v1_Pandora Rat - Terms and Conditions EULA (2013)_d59651f72a144a9c9aafc271a16d5f74.png) 
 #  - EdtSrv.exe
@@ -71245,7 +71560,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Pest v4.0/EdtSrv.exe
@@ -72230,8 +72547,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### PEST V4.0 RAT Server Editor
 ![UI](./Screenshots/PEST V4.0 RAT Server Editor_PEST V4.0 RAT Server Editor_a0ba850678a74f9491fd6fc2d248b9e5.png) 
 # WindowsApplication37 - PixelRAT 1.9.exe
@@ -72251,7 +72571,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/PixelRAT 1.9/PixelRAT 1.9.exe
@@ -72488,8 +72810,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Form7
 ![UI](./Screenshots/Form7_Form7_b05dc16b09e740b19e48f3d4bb886841.png) 
 # Project1 - Pocket RAT - Client.exe
@@ -72509,7 +72834,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Pocket RAT/Pocket RAT - Client.exe
@@ -72767,8 +73094,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Pocket RAT - Client
 ![UI](./Screenshots/Project1_Pocket RAT - Client_d04cd470a7874df88a824f58e7b81421.png) 
 # ProConnective - ProConnective.exe
@@ -72788,7 +73118,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Prorat 2.1/ProConnective.exe
@@ -73581,8 +73913,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### ProConnective
 ![UI](./Screenshots/ProConnective_ProConnective_ce206411c2364e8f92adb834b0adafc5.png) 
 #  - Alusinus.exe
@@ -73602,7 +73937,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/RAT Alusinus 0.3/Alusinus.exe
@@ -74271,8 +74608,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### RAT Alusinus 0.3
 ![UI](./Screenshots/Alusinus_RAT Alusinus 0.3_cf60be208e504be49758f8acd723c898.png) 
 # RedDevil product - RedDevil v1.0.exe
@@ -74292,7 +74632,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Red Devil Remote Admin/RedDevil v1.0.exe
@@ -74581,8 +74923,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Default Port
 ![UI](./Screenshots/Default Port_Default Port_6a652070fea14651a866152f37cf4e01.png) 
 #  - Remote Operations REDEEMER.exe
@@ -74602,7 +74947,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Remote Operations 2.4/Remote Operations REDEEMER.exe
@@ -78471,8 +78818,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### SplashScreen
 ![UI](./Screenshots/Loading..._SplashScreen_6ba25d03f2104c4abadfe817b508a1d8.png) 
 # Spy-Rat v.1.5 Fixed - Spy-Rat v.1.5 Fixed.exe
@@ -78492,7 +78842,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Spy-Rat v.1.5 Fixed/Spy-Rat v.1.5 Fixed.exe
@@ -78812,8 +79164,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Settings 
 ![UI](./Screenshots/Settings _Settings _89413008ed1346b48ed70180585a0b47.png) 
 ### Spy-Rat v.1.5 Fixed - Users Online [ 0 ]
@@ -78835,7 +79190,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/SpySystem RAT/SpySytem RAT.exe
@@ -80214,8 +80571,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### SpySystem RAT - [ By LordFênix ]
 ![UI](./Screenshots/SpySystem Rat_SpySystem RAT - [ By LordFênix ]_970263e19f0149f4bd8369f289ee3d8d.png) 
 #  - Client.exe
@@ -80235,7 +80595,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Syndrome RAT v4.3.1/Client.exe
@@ -81968,8 +82330,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Syndrome Research Administration Tool 4.3.1 (A-1)
 ![UI](./Screenshots/Client_Syndrome Research Administration Tool 4.3.1 (A-1)_eb783825d0a94e06b64f3f9bddff6c84.png) 
 #  - Tunnel Rat Control.exe
@@ -81989,7 +82354,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Tunnel Rat 1.0/Tunnel Rat Control.exe
@@ -83198,8 +83565,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Tunnel Rat 1.0 by Princeali
 ![UI](./Screenshots/Tunnel rat control_Tunnel Rat 1.0 by Princeali_2b646ec11d5f4a1e8cbd64495f17b73b.png) 
 #  - Client.exe
@@ -83219,7 +83589,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/Turkojan 4.0 Gold/Client.exe
@@ -84358,8 +84730,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### frmAntlasma
 ![UI](./Screenshots/Client_frmAntlasma_cb3e257f39354c9d9cff6e973d7d0060.png) 
 # RAT - UGSec RAT_YKW.exe
@@ -84379,7 +84754,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/UGSec RAT Cracked/UGSec RAT_YKW.exe
@@ -84650,8 +85027,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Cracked - [YouKnowWho@crackingforums.org]
 ![UI](./Screenshots/Cracked - [YouKnowWho@crackingforums.org]_Cracked - [YouKnowWho@crackingforums.org]_c8dbfd470f4448248d163ef9f73ce65a.png) 
 #  - Spoofer.exe
@@ -84671,7 +85051,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/DarkComet53/Spoof extensions/Spoofer.exe
@@ -85972,8 +86354,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Extension spoofer - By DarkCoderSc
 ![UI](./Screenshots/Extension spoofer - By DarkCoderSc_Extension spoofer - By DarkCoderSc_6e146f6ff76140af9a1171fe670bcff6.png) 
 # Fun Options Add-in for MiniMo - Fun Stuff Addin.exe
@@ -85993,7 +86378,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/MiniMo Public 0.7/addins/Fun Stuff Addin.exe
@@ -86277,8 +86664,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### MiniMo Fun Options Add-in (Ver. 0.6 +)
 ![UI](./Screenshots/MODDE_MiniMo Fun Options Add-in (Ver. 0.6 +)_b2ec4cc1f1804459ae2d4b0e30d033d4.png) 
 # Auto-Start Editor Add-in for MiniMo - Auto-Start Editor.exe
@@ -86298,7 +86688,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/MiniMo Public 0.7/addins/Auto-Start Editor.exe
@@ -86578,8 +86970,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### MiniMo Remote Auto-Start Editor
 ![UI](./Screenshots/MODDE_MiniMo Remote Auto-Start Editor_3f432bfa5f3a406ea0f5296a27af138f.png) 
 # ICQ Test Addin by superchachi - ICQ Test Addin.exe
@@ -86599,7 +86994,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/MiniMo Public 0.7/addins/ICQ Test Addin.exe
@@ -86884,8 +87281,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### MiniMo Remote ICQ Pager
 ![UI](./Screenshots/MODDE_MiniMo Remote ICQ Pager_92771c1e017c4d75851bb5bb974fed64.png) 
 # Edit Server Addin for MiniMo - Edit Server Addin.exe
@@ -86905,7 +87305,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/MiniMo Public 0.7/addins/Edit Server Addin.exe
@@ -87177,8 +87579,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### MiniMo Remote Edit Server
 ![UI](./Screenshots/MODDE_MiniMo Remote Edit Server_2773c4b09d184e58aca7cb7ef4639f3b.png) 
 #  - Client.exe
@@ -87198,7 +87603,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/DC/Client.exe
@@ -88563,8 +88970,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### DarkComet-RAT v2.0
 ![UI](./Screenshots/Client_DarkComet-RAT v2.0_4d532c84a08c41eca40e0e3d19cf5e36.png) 
 # MoSucker Client - MoSucker.exe
@@ -88584,7 +88994,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/MoSucker 3.0b/MoSucker.exe
@@ -88979,8 +89391,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### WARNING
 ![UI](./Screenshots/MoSucker client (v3.0)_WARNING_3170190f68704f36b9d4dde9799d7ffa.png) 
 # C.I.A - Cruel Intentionz Administrator  By Alchemist http://cruel-intentionz.com - Cruel-Intentionz.exe
@@ -89000,7 +89415,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Cruel-Intentionz.exe
@@ -89477,8 +89894,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### CIA 1.3
 ![UI](./Screenshots/CIA_CIA 1.3_96cf37e4bad94ffda96b2923f0b0488d.png) 
 #  - Client.exe
@@ -89498,7 +89918,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/DarkComet/Client.exe
@@ -91091,8 +91513,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### DarkComet-RAT 2.0b3
 ![UI](./Screenshots/Client_DarkComet-RAT 2.0b3_7ef7c1a78675498f94bf8b81ed12fc8a.png) 
 # ProRat - ProRat.exe
@@ -91112,7 +91537,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Turc (Turquie) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/ProRat_v1.9/ProRat.exe
@@ -101357,8 +101784,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### ProRat V1.9
 ![UI](./Screenshots/ProRat V1.9_ProRat V1.9_436a384e4aef483ab6d89d6a2bc5fb6b.png) 
 #  - GS.exe
@@ -101378,7 +101808,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/GalaxyWorkstation 1.5.0.4/GalaxyServer_net2/compressed/GS.exe
@@ -101558,8 +101990,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Galaxy S. 1.5.0.4
 ![UI](./Screenshots/Galaxy S. 1.5.0.4_Galaxy S. 1.5.0.4_a4b244886eaa432fb3f5ada5c6be5274.png) 
 # MiniMo 0.7 Beta Edit-Server - Edit Server.exe
@@ -101579,7 +102014,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/MiniMo Public 0.7/Edit Server.exe
@@ -102060,8 +102497,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### MiniMo Edit-Server - 0.7 Public Beta
 ![UI](./Screenshots/MiniMo ES Beta 0.70_MiniMo Edit-Server - 0.7 Public Beta_26e9abadfffe42e98d016534740c7b1b.png) 
 # WindowsApplication1 - Golden Phioenix RAT 0.1.exe
@@ -102081,7 +102521,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Golden Phoenix Rat 0.2/Golden Phioenix RAT 0.1.exe
@@ -102346,8 +102788,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Krusty´s Golden Phoenix RAT 0.2
 ![UI](./Screenshots/Krusty´s Golden Phoenix RAT 0.2_Krusty´s Golden Phoenix RAT 0.2_bc44fb73584d4210836f92f99419656c.png) 
 #  - NovaLite.exe
@@ -102367,7 +102812,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/NovaLite.exe
@@ -103564,8 +104011,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### NovaLite v1.0 Beta
 ![UI](./Screenshots/Nova Lite RAT v1.0_NovaLite v1.0 Beta_f55bb42f1f21434599ae291fc0c55c57.png) 
 # Yahoo! password retrieval add-in - Yahoo Password Retrieval.exe
@@ -103585,7 +104035,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/MiniMo Public 0.7/addins/Yahoo Password Retrieval.exe
@@ -103904,8 +104356,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Yahoo! Remote Password Recovery Add-in
 ![UI](./Screenshots/MODDE_Yahoo! Remote Password Recovery Add-in_d88c6e0f8cdd4c8680ed9b91023979cd.png) 
 # Deeper - Deeper 1.0 Beta8.exe
@@ -103925,7 +104380,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Deeper 1.0 Beta8/Deeper 1.0 Beta8.exe
@@ -104409,8 +104866,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Deeper 1.0 Beta8
 ![UI](./Screenshots/Deeper_Deeper 1.0 Beta8_8c6f7bf6e2d2491ab72f2153d70f83ec.png) 
 # MoSucker - CreateServer.exe
@@ -104430,7 +104890,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/MoSucker 3.0b/CreateServer.exe
@@ -104731,8 +105193,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### MoSucker 3.0
 ![UI](./Screenshots/EditServer 3.0_MoSucker 3.0_fd6c1cc887ba4d1eaafcdb4a5300fede.png) 
 # MofoTro - MofoTro 1.7 Beta.exe
@@ -104752,7 +105217,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Malwares/RAT/MofoTro Beta 1.7/MofoTro 1.7 Beta.exe
@@ -105069,8 +105536,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### MOFOTRO
 ![UI](./Screenshots/client_MOFOTRO_0434c56489cd4b30b2a2614d4db47fae.png) 
 #  - Net-Devil.exe
@@ -105090,7 +105560,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Net-Devil.exe
@@ -106453,8 +106925,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Net-Devil [client]
 ![UI](./Screenshots/Net-Devil_Net-Devil [client]_6778edb53b114e6a8bf58825145eb997.png) 
 #  - Edit-server.exe
@@ -106474,7 +106949,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Edit-server.exe
@@ -107570,8 +108047,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Net-Devil [Edit-server]
 ![UI](./Screenshots/Net-Devil [Edit-Server]_Net-Devil [Edit-server]_fd534ef2341d4cc8b193a0dbc95ab154.png) 
 #  - CyberGate v1.01.8.exe
@@ -107591,7 +108071,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/CyberGate v1.01.8.exe
@@ -109069,8 +109551,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### CyberGate RAT  Disclaimer
 ![UI](./Screenshots/CyberGate_CyberGate RAT  Disclaimer_cca76b9f71534f3c951aceb843190af8.png) 
 #  - CyberGate v1.02.0.exe
@@ -109090,7 +109575,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/CyberGate v1.02.0.exe
@@ -111330,7 +111817,10 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### CyberGate Disclaimer
 ![UI](./Screenshots/CyberGate_CyberGate Disclaimer_b3427dc2fc9f454195b0374e94da9c03.png) 

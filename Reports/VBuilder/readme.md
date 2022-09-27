@@ -16,7 +16,9 @@
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/WormGen.exe
@@ -1036,8 +1038,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### p0ke's WormGen 2.0
 ![UI](./Screenshots/Wormgen_p0ke's WormGen 2.0_8743c223d8e341d6aa707de7464c881b.png) 
 # In Shadow Batch Virus Generator - v 5.0.0 - In Shadow Batch Virus Gen - 5.0.0 - MOD.exe
@@ -1057,7 +1062,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/In Shadow Batch Virus Gen - 5.0.0 - MOD.exe
@@ -1553,8 +1560,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### In Shadow Batch Gen - Agreement
 ![UI](./Screenshots/In Shadow Batch Gen - Agreement_In Shadow Batch Gen - Agreement_ef6a264d17a6438aad1fd5af2f659ac8.png) 
 # Vbswg 2 - Vbswg.exe
@@ -1574,7 +1584,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Espagnol (International) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Vbswg.exe
@@ -1919,8 +1931,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Vbswg 2 Beta - By [K]
 ![UI](./Screenshots/Vbswg 2 Beta_Vbswg 2 Beta - By [K]_f8a2d22266a24e4696785e3683352aa1.png) 
 # TeraBIT Virus Maker - Client.exe
@@ -1940,7 +1955,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Tera Bit/Client.exe
@@ -2408,8 +2425,11 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Coded in VB 6.0 By m_reza00
 ![UI](./Screenshots/TeraBIT VM 2.8_Coded in VB 6.0 By m_reza00_344155be96ed4c7eaab8855ee39c171c.png) 
 #  - Virus-O-Matic.exe
@@ -2429,7 +2449,9 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p> ```* Manalyze 0.9 *
+<details><summary>Manalyze</summary><p>
+```
+* Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
 C:/Users/aTest/Desktop/net6.0/Malwares/Virus-O-Matic.exe
@@ -2692,7 +2714,10 @@ The following exploit mitigation techniques have been detected
     CFG: disabled
 
 
+
 ```
- </p></details>## Screenshots
+</p></details>
+
+## Screenshots
 ### Virus maker 2000
 ![UI](./Screenshots/Virus maker 2000_Virus maker 2000_21fd124b18ad4723b94ee23a2faf6d9b.png) 
