@@ -55,7 +55,9 @@ namespace ScreenshooterVXBuilder.Utils
                 md += $"| MD5 | {m.PeInformations.Md5} |{Environment.NewLine}";
                 md += $"| Language | {m.PeInformations.Language} |{Environment.NewLine}";
                 md += $"## Static Analysis{Environment.NewLine}";
-                md += $"<details><summary>Manalyze</summary><p>{Environment.NewLine}```{Environment.NewLine}{m.StaticAnalysis.Manalyze.Replace("[NewLine]", Environment.NewLine)}{Environment.NewLine}```{Environment.NewLine}</p></details>{Environment.NewLine}{Environment.NewLine}";
+                md += $"<details>{Environment.NewLine}<summary>Manalyze</summary>{Environment.NewLine}";
+                md += $"<p>{Environment.NewLine}{Environment.NewLine}```{Environment.NewLine}{Environment.NewLine}{m.StaticAnalysis.Manalyze.Replace("[NewLine]", Environment.NewLine)}{Environment.NewLine}{Environment.NewLine}```{Environment.NewLine}{Environment.NewLine}</p>{Environment.NewLine}";
+                md += $"</details>{Environment.NewLine}{Environment.NewLine}";
                 md += $"## Screenshots{Environment.NewLine}";
                 foreach(UI ui in m.Screenshots)
                 {

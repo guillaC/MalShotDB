@@ -16,8 +16,12 @@
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -1305,8 +1309,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Erreur de script
@@ -1330,8 +1337,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -1533,8 +1544,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### WMI Code Creator
@@ -1556,8 +1570,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -1850,8 +1868,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Confuser v1.8.0.0 - Untitled.crproj 
@@ -1873,8 +1894,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -2144,8 +2169,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Icon changer 1.0 by coda
@@ -2167,8 +2195,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -2476,8 +2508,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### 1337 SteamACC Stealer Private - By Eddy-K
@@ -2499,8 +2534,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -2782,8 +2821,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### BKL Public Edition V2.0
@@ -2805,8 +2847,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -3121,8 +3167,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### PWstealer v2.0 - Server builder by c0d4
@@ -3144,8 +3193,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -4290,8 +4343,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### LabStealer
@@ -4313,8 +4369,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -4593,8 +4653,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Error
@@ -4616,8 +4679,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -4921,8 +4988,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### iS 5.0 MOD
@@ -4944,8 +5014,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -5115,8 +5189,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Enter gate url....
@@ -5138,8 +5215,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -6335,8 +6416,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### SimpleStealer V1.2
@@ -6358,8 +6442,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -6692,8 +6780,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### frmLoad
@@ -6715,8 +6806,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -6962,8 +7057,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### iStealer 3.0
@@ -6985,8 +7083,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -7287,8 +7389,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Dark Screen Stealer - by Mana5olia
@@ -7310,8 +7415,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -7619,8 +7728,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### AuraStealer 1.0b
@@ -7642,8 +7754,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -7871,8 +7987,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Black Stealer v2.1 [ Legend Edition ]
@@ -7894,8 +8013,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -8274,8 +8397,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Midnight Stealer
@@ -8297,8 +8423,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Persan |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -8962,8 +9092,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### JPS 1.8
@@ -8985,8 +9118,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -9251,8 +9388,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Form1
@@ -9274,8 +9414,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -9555,8 +9699,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Ref Stealer v1.0
@@ -9578,8 +9725,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -9809,8 +9960,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Remote Penetration
@@ -9832,8 +9986,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -10429,8 +10587,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### WinRAR self-extracting archive
@@ -10452,8 +10613,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -10748,8 +10913,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Black Stealer v2.3 [ Dark Edition ]
@@ -10771,8 +10939,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -10972,8 +11144,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Lokibot.exe - Erreur d'initialisation du .NET Framework
@@ -10995,8 +11170,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -11533,8 +11712,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Universal1337 V2 - The Account Stealer
@@ -11556,8 +11738,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -11811,8 +11997,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### iStealer
@@ -11834,8 +12023,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -12259,8 +12452,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### iStealer
@@ -12282,8 +12478,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -12644,8 +12844,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Editor
@@ -12669,8 +12872,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Allemand (Allemagne) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -13005,8 +13212,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Projekt1

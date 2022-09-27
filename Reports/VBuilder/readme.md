@@ -16,8 +16,12 @@
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language |  |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -1039,8 +1043,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### p0ke's WormGen 2.0
@@ -1062,8 +1069,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -1561,8 +1572,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### In Shadow Batch Gen - Agreement
@@ -1584,8 +1598,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Espagnol (International) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -1932,8 +1950,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Vbswg 2 Beta - By [K]
@@ -1955,8 +1976,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Anglais (États-Unis) |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -2426,8 +2451,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Coded in VB 6.0 By m_reza00
@@ -2449,8 +2477,12 @@ The following exploit mitigation techniques have been detected
 | MD5 | D41D8CD98F00B204E9800998ECF8427E |
 | Language | Langue neutre |
 ## Static Analysis
-<details><summary>Manalyze</summary><p>
+<details>
+<summary>Manalyze</summary>
+<p>
+
 ```
+
 * Manalyze 0.9 *
 
 -------------------------------------------------------------------------------
@@ -2715,8 +2747,11 @@ The following exploit mitigation techniques have been detected
 
 
 
+
 ```
-</p></details>
+
+</p>
+</details>
 
 ## Screenshots
 ### Virus maker 2000
