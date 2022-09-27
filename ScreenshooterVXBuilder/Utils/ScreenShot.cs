@@ -1,8 +1,7 @@
-﻿using System;
+﻿using ScreenshooterVXBuilder.Models;
 using System.Collections;
 using System.Diagnostics;
 using System.Drawing;
-using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
 using System.Text;
 
@@ -10,7 +9,7 @@ namespace ScreenshooterVXBuilder.Utils
 {
     public class ScreenShot
     {
-        const int TIMEOUT = 10;
+        const int TIMEOUT = 5;
 
         #region IMPORTS
         [DllImport("user32.dll")]
@@ -23,6 +22,9 @@ namespace ScreenshooterVXBuilder.Utils
         [DllImport("user32.dll")]
         [return: MarshalAs(UnmanagedType.Bool)]
         static extern bool GetWindowRect(IntPtr hWnd, ref RECT lpRect);
+        [DllImport("user32.dll")]
+        [return: MarshalAs(UnmanagedType.Bool)]
+        static extern bool IsWindowVisible(IntPtr hWnd);
 
         [DllImport("user32.dll")]
         public static extern IntPtr FindWindowEx(IntPtr parentWindow, IntPtr previousChildWindow, string windowClass, string windowTitle);
@@ -45,7 +47,7 @@ namespace ScreenshooterVXBuilder.Utils
         public static Bitmap CaptureFromHandle(IntPtr pHandle)
         {
             Bitmap bitmap = null;
-            if (SetForegroundWindow(pHandle))
+            if (SetForegroundWindow(pHandle) && IsWindowVisible(pHandle))
             {
                 RECT rect = new RECT();
 
@@ -70,19 +72,28 @@ namespace ScreenshooterVXBuilder.Utils
 
         public static Dictionary<String, Bitmap> CaptureFromProcess(Process pProcess)
         {
+            Console.WriteLine($"Capture from Process : {pProcess.ProcessName}");
             StringBuilder uiTitle = new StringBuilder();
-
             pProcess.Refresh();
 
             Dictionary<String, Bitmap> captures = new();
             List<IntPtr> handles = GetProcessWindows(pProcess.Id);
             foreach (IntPtr handle in handles)
             {
-                Bitmap bitmap = CaptureFromHandle(handle);
-                if (bitmap != null && GetWindowText(handle, uiTitle, 256) > 0)
+                try
                 {
-                    captures.Add(uiTitle.ToString(), bitmap);
+                    Bitmap bitmap = CaptureFromHandle(handle);
+                    if (bitmap != null && GetWindowText(handle, uiTitle, 256) > 0)
+                    {
+                        Console.WriteLine($"Handle : {handle} - {uiTitle.ToString()}");
+                        captures.Add(uiTitle.ToString(), bitmap);
+                    }
                 }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+
             }
 
             return captures;
@@ -105,7 +116,7 @@ namespace ScreenshooterVXBuilder.Utils
         public static bool WaitUI(Process process)
         {
             int counter = 0;
-            Console.WriteLine("attente d'une UI...");
+            Console.WriteLine("Waiting for UI...");
             while (process.MainWindowHandle.ToInt32() == 0)
             {
                 Thread.Sleep(1000);
@@ -115,5 +126,78 @@ namespace ScreenshooterVXBuilder.Utils
             }
             return true;
         }
+
+        public static List<UI> TakeScreenshot(String Path)
+        {
+            List<UI> uIs = new List<UI>();
+            List<Process> allProcessOne = Process.GetProcesses().ToList();
+
+            try
+            {
+                Process newProcess = new Process
+                {
+                    StartInfo = new ProcessStartInfo
+                    {
+                        FileName = Path,
+                        UseShellExecute = true
+                    }
+                };
+
+                Console.WriteLine($"Running {Path}");
+                newProcess.Start();
+                Thread.Sleep(2000);
+
+                List<Process> allProcessTwo = Process.GetProcesses().ToList();
+                List<Process> allProcessDifOneTwo = new List<Process>();
+
+                foreach (Process process in allProcessTwo)
+                {
+                    try
+                    {
+                        if (allProcessOne.Where(p => p.Id == process.Id && p.ProcessName == process.ProcessName).Count() == 0)
+                        {
+                            allProcessDifOneTwo.Add(process);
+                        }
+                    }
+                    catch { }
+                }
+
+                foreach (Process process in allProcessDifOneTwo)
+                {
+                    if (process is null) continue;
+
+                    if (ScreenShot.WaitUI(process))
+                    {
+                        Dictionary<String, Bitmap> screenshots = ScreenShot.CaptureFromProcess(process);
+                        foreach (KeyValuePair<String, Bitmap> screenshot in screenshots)
+                        {
+                            string randomStr = Guid.NewGuid().ToString("n");
+                            string filename = $"./Screenshots/{process.MainWindowTitle}_{screenshot.Key}_{randomStr}.png";
+
+                            screenshot.Value.Save(filename);
+                            uIs.Add(new UI(screenshot.Key, filename));
+                        }
+                        Thread.Sleep(1000);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Unable to retrieve handle..");
+                    }
+                }
+
+                foreach (Process process in allProcessDifOneTwo)
+                {
+                    process.CloseMainWindow();
+                    process.Kill(true);
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            return uIs;
+        }
+
     }
 }

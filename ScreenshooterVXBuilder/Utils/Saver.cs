@@ -1,10 +1,5 @@
 ﻿using ScreenshooterVXBuilder.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace ScreenshooterVXBuilder.Utils
 {
@@ -30,7 +25,6 @@ namespace ScreenshooterVXBuilder.Utils
 
         public static void SaveData(List<Malware> pMalwares, string pPath = "./sav.json")
         {
-            pMalwares = pMalwares.OrderBy(m => m.Date).ToList();
             string jSon = JsonSerializer.Serialize(pMalwares);
             File.WriteAllText(pPath, jSon);
         }
