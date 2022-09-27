@@ -1051,7 +1051,7 @@ The following exploit mitigation techniques have been detected
 
 ## Screenshots
 ### p0ke's WormGen 2.0
-![UI](./Screenshots/Wormgen_p0ke's WormGen 2.0_8743c223d8e341d6aa707de7464c881b.png) 
+![UI](./Screenshots/Wormgen_p0ke's%20WormGen%202.0_8743c223d8e341d6aa707de7464c881b.png) 
 # In Shadow Batch Virus Generator - v 5.0.0 - In Shadow Batch Virus Gen - 5.0.0 - MOD.exe
 ## Informations
 | Label | Value |
