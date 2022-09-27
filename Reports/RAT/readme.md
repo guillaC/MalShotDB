@@ -14067,7 +14067,7 @@ The following exploit mitigation techniques have been detected
 
 ## Screenshots
 ### Deeper 1.0 Beta9
-![UI](./Screenshots/Deeper_Deeper 1.0 Beta9_708942fd753345899fe4c6d4f95687bc.png) 
+![UI](./Screenshots/Deeper_Deeper%201.0%20Beta9_708942fd753345899fe4c6d4f95687bc.png) 
 #  - RemcosLoader.exe
 ## Informations
 | Label | Value |
@@ -14378,7 +14378,7 @@ The following exploit mitigation techniques have been detected
 
 ## Screenshots
 ### REMCOS Loader
-![UI](./Screenshots/REMCOS Loader_REMCOS Loader_074e83e0a02e44959cd5afd832d020c7.png) 
+![UI](./Screenshots/REMCOS%20Loader_REMCOS%20Loader_074e83e0a02e44959cd5afd832d020c7.png) 
 # Charon - Charon.exe
 ## Informations
 | Label | Value |
@@ -14798,7 +14798,7 @@ The following exploit mitigation techniques have been detected
 
 ## Screenshots
 ### Charon - 0 servers online [Listening]
-![UI](./Screenshots/Charon_Charon - 0 servers online [Listening]_936e01f4c89b44828a13148b937413a1.png) 
+![UI](./Screenshots/Charon_Charon%20-%200%20servers%20online%20[Listening]_936e01f4c89b44828a13148b937413a1.png) 
 # Complete Control 2 Add-in for MiniMo - Complete Control 2.exe
 ## Informations
 | Label | Value |
