@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jsonToMdVXBuilder", "jsonToMdVXBuilder\jsonToMdVXBuilder.csproj", "{7BB5B408-3DD8-41E4-81AB-A32432D42A10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenshooterVXBuilder", "ScreenshooterVXBuilder\ScreenshooterVXBuilder.csproj", "{0FDAC31A-4D39-45C2-A0C8-20DA0966C8FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB5B408-3DD8-41E4-81AB-A32432D42A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB5B408-3DD8-41E4-81AB-A32432D42A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB5B408-3DD8-41E4-81AB-A32432D42A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB5B408-3DD8-41E4-81AB-A32432D42A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDAC31A-4D39-45C2-A0C8-20DA0966C8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDAC31A-4D39-45C2-A0C8-20DA0966C8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDAC31A-4D39-45C2-A0C8-20DA0966C8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDAC31A-4D39-45C2-A0C8-20DA0966C8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D51F65-281A-43C4-B3DC-6FFD2C70CDAB}
+	EndGlobalSection
+EndGlobal
