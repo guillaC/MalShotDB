@@ -89,7 +89,7 @@ namespace ScreenshooterVXBuilder.Utils
                     if (!String.IsNullOrEmpty(m.PeInformations.ProductName)) title += m.PeInformations.ProductName.Replace('[', ' ').Replace(']', ' ');
                     if (!String.IsNullOrEmpty(m.PeInformations.ExeName)) title += m.PeInformations.ExeName.Replace('[', ' ').Replace(']', ' ');
 
-                    md += $"{pageNB}. ![{title}](./Reports/{m.PeInformations.Sha1}.md){Environment.NewLine}";
+                    md += $"{pageNB}. [{title}](./Reports/{m.PeInformations.Sha1}.md){Environment.NewLine}";
                     pageNB++;
                 }
 
