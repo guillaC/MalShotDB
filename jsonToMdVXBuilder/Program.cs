@@ -21,7 +21,7 @@ namespace jsonToMdVXBuilder
             }
 
             List<Malware> Malwares = Saver.LoadData(jsonPath);
-            Saver.SaveDataMD(Malwares);
+            Saver.SaveDataMD(Malwares, jsonPath.Replace(Path.GetFileName(jsonPath),""));
             Console.WriteLine("done.");
             Console.ReadLine();
 

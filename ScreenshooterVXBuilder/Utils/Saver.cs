@@ -1,4 +1,6 @@
 ﻿using ScreenshooterVXBuilder.Models;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text.Json;
 
 namespace ScreenshooterVXBuilder.Utils
@@ -31,13 +33,15 @@ namespace ScreenshooterVXBuilder.Utils
             File.WriteAllText(pPath, jSon);
         }
 
-        public static void SaveDataMD(List<Malware> pMalwares, string pPath = "./sav.md")
+        public static void SaveDataMD(List<Malware> pMalwares, string pPath)
         {
             pMalwares = pMalwares.OrderBy(m => m.PeInformations.LastEdition).ToList();
-            string md = "![mdb](https://user-images.githubusercontent.com/6315083/192282485-b77f3080-0b6b-4624-b85e-1c619cc2441a.png)" + Environment.NewLine;
+            Directory.CreateDirectory(pPath + "/Reports/");
 
+            string md = "";
             foreach (Malware m in pMalwares)
             {
+                md = "![mdb](https://user-images.githubusercontent.com/6315083/192282485-b77f3080-0b6b-4624-b85e-1c619cc2441a.png)" + Environment.NewLine;
                 md += $"# {m.PeInformations.ProductName} - {m.PeInformations.ExeName}{Environment.NewLine}";
                 md += $"## Informations{Environment.NewLine}";
                 md += $"| Label | Value |{Environment.NewLine}";
@@ -59,14 +63,40 @@ namespace ScreenshooterVXBuilder.Utils
                 md += $"<p>{Environment.NewLine}{Environment.NewLine}```{Environment.NewLine}{Environment.NewLine}{m.StaticAnalysis.Manalyze.Replace("[NewLine]", Environment.NewLine)}{Environment.NewLine}{Environment.NewLine}```{Environment.NewLine}{Environment.NewLine}</p>{Environment.NewLine}";
                 md += $"</details>{Environment.NewLine}{Environment.NewLine}";
                 md += $"## Screenshots{Environment.NewLine}";
-                foreach(UI ui in m.Screenshots)
+                foreach (UI ui in m.Screenshots)
                 {
                     md += $"### {ui.WindowTitle}{Environment.NewLine}";
-                    md += $"![UI]({ui.Path}) {Environment.NewLine}";
+                    md += $"![UI]({ui.Path.Replace(" ", "%20")}) {Environment.NewLine}";
                 }
+                File.WriteAllText(pPath + "/Reports/" + m.PeInformations.Sha1 + ".md", md);
             }
 
-            File.WriteAllText(pPath, md);
+            md = "![mdb](https://user-images.githubusercontent.com/6315083/192282485-b77f3080-0b6b-4624-b85e-1c619cc2441a.png)" + Environment.NewLine;
+            md += $"# Table of Contents{Environment.NewLine}";
+
+            var malwaresGrouped = pMalwares.GroupBy(x => DateTime.Parse(x.PeInformations.LastEdition).ToString("yyyy"));
+            Dictionary<string, List<Malware>> malwaresGToDic = malwaresGrouped.ToDictionary(g => g.Key, g => g.ToList());
+            SortedDictionary<string, List<Malware>> sortedMalwaresGToDic = new SortedDictionary<string, List<Malware>>(malwaresGToDic);
+
+            int pageNB = 1;
+            foreach (KeyValuePair<string, List<Malware>> mDic in sortedMalwaresGToDic)
+            {
+                //int pageNB = 1;
+                //md += $"## {mDic.Key}{Environment.NewLine}";
+                foreach (Malware m in mDic.Value)
+                {
+                    string title = $"{m.PeInformations.Sha1} | ";
+                    if (!String.IsNullOrEmpty(m.PeInformations.ProductName)) title += m.PeInformations.ProductName.Replace('[', ' ').Replace(']', ' ');
+                    if (!String.IsNullOrEmpty(m.PeInformations.ExeName)) title += m.PeInformations.ExeName.Replace('[', ' ').Replace(']', ' ');
+
+                    md += $"{pageNB}. ![{title}](./Reports/{m.PeInformations.Sha1}.md){Environment.NewLine}";
+                    pageNB++;
+                }
+
+
+            }
+
+            File.WriteAllText(pPath + "/readme.md", md);
         }
     }
 }
