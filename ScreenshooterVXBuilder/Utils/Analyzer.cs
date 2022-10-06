@@ -12,9 +12,8 @@ namespace ScreenshooterVXBuilder.Utils
             FileStream fiO = File.OpenRead(Path);
 
             string sha1 = BitConverter.ToString(System.Security.Cryptography.SHA1.Create().ComputeHash(fiO));
-            string md5 = BitConverter.ToString(System.Security.Cryptography.MD5.Create().ComputeHash(fiO));
 
-            return new PeInformations(fi.Name, fiVI.ProductName, fiVI.FileVersion, fiVI.FileDescription, fi.Length.ToString(), md5, sha1, fiVI.Language, fiVI.LegalCopyright, fiVI.LegalTrademarks,fiVI.CompanyName, File.GetLastWriteTime(Path).ToString());
+            return new PeInformations(fi.Name, fiVI.ProductName, fiVI.FileVersion, fiVI.FileDescription, fi.Length.ToString(), sha1, fiVI.Language, fiVI.LegalCopyright, fiVI.LegalTrademarks,fiVI.CompanyName, File.GetLastWriteTime(Path).ToString());
         }
 
         public static StaticAnalysis Analysis(String Path)

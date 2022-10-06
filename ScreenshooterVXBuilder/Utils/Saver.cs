@@ -56,7 +56,6 @@ namespace ScreenshooterVXBuilder.Utils
                 md += $"| Last Edition | {m.PeInformations.LastEdition} |{Environment.NewLine}";
                 md += $"| Size | {m.PeInformations.Size} |{Environment.NewLine}";
                 md += $"| SHA1 🔎 | [{m.PeInformations.Sha1}](https://www.virustotal.com/gui/search/{m.PeInformations.Sha1}) |{Environment.NewLine}";
-                md += $"| MD5 | {m.PeInformations.Md5} |{Environment.NewLine}";
                 md += $"| Language | {m.PeInformations.Language} |{Environment.NewLine}";
                 md += $"## Static Analysis{Environment.NewLine}";
                 md += $"<details>{Environment.NewLine}<summary>Manalyze</summary>{Environment.NewLine}";
@@ -73,6 +72,8 @@ namespace ScreenshooterVXBuilder.Utils
 
             md = "![mdb](https://user-images.githubusercontent.com/6315083/192282485-b77f3080-0b6b-4624-b85e-1c619cc2441a.png)" + Environment.NewLine;
             md += $"# Table of Contents{Environment.NewLine}";
+            md += $"| SHA1 | Product Name | Version Number | Form titles |{Environment.NewLine}";
+            md += $"| :--- | --- | --- | --- |{Environment.NewLine}";
 
             var malwaresGrouped = pMalwares.GroupBy(x => DateTime.Parse(x.PeInformations.LastEdition).ToString("yyyy"));
             Dictionary<string, List<Malware>> malwaresGToDic = malwaresGrouped.ToDictionary(g => g.Key, g => g.ToList());
@@ -85,12 +86,16 @@ namespace ScreenshooterVXBuilder.Utils
                 //md += $"## {mDic.Key}{Environment.NewLine}";
                 foreach (Malware m in mDic.Value)
                 {
-                    string title = $"{m.PeInformations.Sha1} | ";
-                    if (!String.IsNullOrEmpty(m.PeInformations.ProductName)) title += m.PeInformations.ProductName.Replace('[', ' ').Replace(']', ' ');
-                    if (!String.IsNullOrEmpty(m.PeInformations.ExeName)) title += m.PeInformations.ExeName.Replace('[', ' ').Replace(']', ' ');
+                    string productName = "";
+                    string versionNumber = "";
+                    List<string> formTitlesList = new List<string>();
+                    foreach (UI screenS in m.Screenshots) formTitlesList.Add(screenS.WindowTitle);
+                    string formTitlesString = String.Join(", ", formTitlesList.ToArray());
 
-                    md += $"{pageNB}. [{title}](./Reports/{m.PeInformations.Sha1}.md){Environment.NewLine}";
-                    pageNB++;
+                    if (m.PeInformations.ProductName != null) productName = m.PeInformations.ProductName.Replace('[', ' ').Replace(']', ' ');
+                    if (m.PeInformations.VersionNumber != null) versionNumber = m.PeInformations.VersionNumber;
+
+                    md += $"| [{m.PeInformations.Sha1}](./Reports/{m.PeInformations.Sha1}.md) | {productName} | {versionNumber} | {formTitlesString} |{Environment.NewLine}";
                 }
 
 
