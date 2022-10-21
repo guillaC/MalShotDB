@@ -13,5 +13,4 @@ Bin/release-debug directory is composed of 4 directories:
 ## Retrospective of the Malware scene available
 
 - [RAT](https://github.com/guillaC/MalShotDB/tree/main/Reports/RAT)
-- [Stealer](https://github.com/guillaC/MalShotDB/tree/main/Reports/Stealer)
 - [V.Builder](https://github.com/guillaC/MalShotDB/tree/main/Reports/VBuilder)
