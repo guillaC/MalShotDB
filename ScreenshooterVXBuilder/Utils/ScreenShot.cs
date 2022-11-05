@@ -145,7 +145,8 @@ namespace ScreenshooterVXBuilder.Utils
 
                 Console.WriteLine($"Running {Path}");
                 newProcess.Start();
-                Thread.Sleep(2000);
+                Console.WriteLine($"Waiting 10 seconds");
+                Thread.Sleep(10000);
 
                 List<Process> allProcessTwo = Process.GetProcesses().ToList();
                 List<Process> allProcessDifOneTwo = new List<Process>();
@@ -172,7 +173,7 @@ namespace ScreenshooterVXBuilder.Utils
                         foreach (KeyValuePair<String, Bitmap> screenshot in screenshots)
                         {
                             string randomStr = Guid.NewGuid().ToString("n");
-                            string filename = $"./Screenshots/{process.MainWindowTitle}_{screenshot.Key}_{randomStr}.png";
+                            string filename = $"./Screenshots/{process.MainWindowTitle.Replace("/", "_").Replace("\\", "_").Replace("*", "_")}_{screenshot.Key}_{randomStr}.png";
 
                             screenshot.Value.Save(filename);
                             uIs.Add(new UI(screenshot.Key, filename));
