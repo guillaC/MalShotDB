@@ -1,11 +1,15 @@
-﻿using ScreenshooterVXBuilder.Models;
+﻿using Screenshooter.GUI.Models;
+using System;
 using System.Collections;
+using System.Collections.Generic;
 using System.Diagnostics;
-using System.Drawing;
+using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 
-namespace ScreenshooterVXBuilder.Utils
+namespace Screenshooter.GUI.Utils
 {
     public class ScreenShot
     {
@@ -173,8 +177,10 @@ namespace ScreenshooterVXBuilder.Utils
                         foreach (KeyValuePair<String, Bitmap> screenshot in screenshots)
                         {
                             string randomStr = Guid.NewGuid().ToString("n");
-                            string filename = $"./Screenshots/{process.MainWindowTitle.Replace("/", "_").Replace("\\", "_").Replace("*", "_")}_{screenshot.Key}_{randomStr}.png";
+                            var MainWindowTitleWithoutSpclCharac = Regex.Replace(process.MainWindowTitle, @"[^0-9a-zA-Z\._]", "");
+                            if (MainWindowTitleWithoutSpclCharac.Length > 8) MainWindowTitleWithoutSpclCharac = MainWindowTitleWithoutSpclCharac.Substring(0, 8);
 
+                            string filename = $"./Screenshots/{MainWindowTitleWithoutSpclCharac}_{screenshot.Key}_{randomStr}.png";
                             screenshot.Value.Save(filename);
                             uIs.Add(new UI(screenshot.Key, filename));
                         }

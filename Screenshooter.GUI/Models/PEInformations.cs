@@ -1,4 +1,4 @@
-﻿namespace ScreenshooterVXBuilder.Models
+﻿namespace Screenshooter.GUI.Models
 {
     public class PeInformations
     {

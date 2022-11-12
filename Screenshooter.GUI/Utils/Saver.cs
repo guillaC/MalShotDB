@@ -1,9 +1,12 @@
-﻿using ScreenshooterVXBuilder.Models;
+﻿using Screenshooter.GUI.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Text.Json;
+using System.Threading.Tasks;
 
-namespace ScreenshooterVXBuilder.Utils
+namespace Screenshooter.GUI.Utils
 {
     public class Saver
     {
@@ -97,8 +100,6 @@ namespace ScreenshooterVXBuilder.Utils
 
                     md += $"| [{m.PeInformations.Sha1}](./Reports/{m.PeInformations.Sha1}.md) | {productName} | {versionNumber} | {formTitlesString} |{Environment.NewLine}";
                 }
-
-
             }
 
             File.WriteAllText(pPath + "/readme.md", md);
