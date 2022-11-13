@@ -2,7 +2,13 @@
 
 If you have any suggestions [please tell us](https://github.com/guillaC/MalShotDB/discussions/categories/malwares)
 
-## Directory Structure of ScreenshooterVXBuilder
+# Retrospective of the Malware scene available
+
+- [RAT](https://github.com/guillaC/MalShotDB/tree/main/Reports/RAT)
+- [V.Builder](https://github.com/guillaC/MalShotDB/tree/main/Reports/VBuilder)
+
+# ScreenshooterVXBuilder
+## Directory Structure
 Bin/release-debug directory is composed of 4 directories:
 
 - Extracted : All ressource files (ICO..)
@@ -10,7 +16,5 @@ Bin/release-debug directory is composed of 4 directories:
 - Screenshots
 - Tools : [Manalyze binary](https://manalyzer.org/)
 
-## Retrospective of the Malware scene available
-
-- [RAT](https://github.com/guillaC/MalShotDB/tree/main/Reports/RAT)
-- [V.Builder](https://github.com/guillaC/MalShotDB/tree/main/Reports/VBuilder)
+## UI
+![image](https://user-images.githubusercontent.com/6315083/201499746-47e0e19d-4ea8-40fb-887e-23123b8e8e98.png)
