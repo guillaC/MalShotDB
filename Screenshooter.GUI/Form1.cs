@@ -81,7 +81,9 @@ namespace Screenshooter.GUI
             List<ListViewItem> lvItems = new List<ListViewItem>();
             foreach (ListViewItem lvItem in lvFiles.Items)
             {
-                if (lvItem.Text.ToLower().Contains(term.ToLower())) lvItems.Add(lvItem);
+                if (lvItem.Text.ToLower().Contains(term.ToLower()) || lvItem.SubItems[0].Text.ToLower().Contains(term.ToLower()) || lvItem.SubItems[0].Text.ToLower().Contains(term.ToLower()) || lvItem.SubItems[1].Text.ToLower().Contains(term.ToLower()) 
+                    || lvItem.SubItems[2].Text.ToLower().Contains(term.ToLower()) || lvItem.SubItems[3].Text.ToLower().Contains(term.ToLower()) || lvItem.SubItems[4].Text.ToLower().Contains(term.ToLower()) || lvItem.SubItems[5].Text.ToLower().Contains(term.ToLower()) 
+                    || lvItem.SubItems[6].Text.ToLower().Contains(term.ToLower()) || lvItem.SubItems[7].Text.ToLower().Contains(term.ToLower())) lvItems.Add(lvItem);
             }
             lvFiles.Items.Clear();
             lvFiles.Items.AddRange(lvItems.ToArray());
