@@ -4,8 +4,7 @@ If you have any suggestions [please tell us](https://github.com/guillaC/MalShotD
 
 # Retrospective of the Malware scene available
 
-- [RAT](https://github.com/guillaC/MalShotDB/tree/main/Reports/RAT)
-- [V.Builder](https://github.com/guillaC/MalShotDB/tree/main/Reports/VBuilder)
+- [Windows RAT/Backdoor](https://github.com/guillaC/MalShotDB/tree/main/Reports/RAT)
 
 # ScreenshooterVXBuilder
 ## Directory Structure
