@@ -7,13 +7,14 @@ If you have any suggestions [please tell us](https://github.com/guillaC/MalShotD
 - [Windows RAT/Backdoor](https://github.com/guillaC/MalShotDB/tree/main/Reports/RAT)
 
 # MalShotDB
+
+> **⚠ The project is currently on hold.**
+
 ## Warning
 You should never run this on a live system. Only use it with malicious samples where you are in control.
 **I take no responsibility for how this program is used**. 
 
 My hope is that others see it as a good tool to use and perhaps add more stuff to it.
-
-You have been warned :)
 
 ## Directory Structure
 Bin/release-debug directory is composed of 4 directories:
